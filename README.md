@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Screenshot
 
-![](images/fmchallenge1.Png)
+![challenge](images/fmchallenge1.PNG)
 
 <br>
 
