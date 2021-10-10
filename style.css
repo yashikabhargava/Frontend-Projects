@@ -35,9 +35,7 @@ body{
 
 .img{
     width: 100%;
-    display: flex;
-    border-radius: 1.2rem;
-    
+    display: flex; 
 }
 
 .img img{
