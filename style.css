@@ -13,7 +13,7 @@ body{
     background-size: 100vw;
     text-align: center;
     background-color: hsl(225, 100%, 94%);
-    padding-top: 4.5rem;
+    padding: 4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -143,7 +143,8 @@ p {
 }
 
 .attribution { 
-    font-size: 13px; text-align: center; 
+    font-size: 13px; text-align: center;
+    margin-top: 1rem; 
 }
     
 .attribution a { 
