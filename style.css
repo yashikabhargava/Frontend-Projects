@@ -43,8 +43,8 @@ body{
 .img img{
     width: 100%;
     object-fit: contain;
-    border-radius: 1.2rem 1.2rem 0 0;
-    overflow:hidden;
+    border-top-right-radius: 1.2rem;
+    border-top-left-radius: 1.2rem;
 }
 
 h1 {
