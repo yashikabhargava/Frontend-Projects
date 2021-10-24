@@ -60,5 +60,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@yashikabhargava](https://www.frontendmentor.io/profile/yashikabhargava)
-- Twitter - [@yashibhargava_](https://www.twitter.com/yashibhargava_)
+
 
